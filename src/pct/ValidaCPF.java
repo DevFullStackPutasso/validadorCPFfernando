@@ -7,7 +7,7 @@ public class ValidaCPF {
 
     public static void main(String[] args) {
        
-     if (isCPF("32090833807")){
+     if (isCPF("")){
             System.out.println("CPF válido");
      
      }  
